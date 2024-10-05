@@ -1,57 +1,56 @@
 # QuickStatements 3.0 Home Page Features Documentation
 
-The **QuickStatements 3.0** homepage provides users with easy access to various functionalities related to batch processing. Below is a detailed explanation of the available features.
+Welcome.
+
+I know you're just bursting to find out what Quickstatements 3.0 is all about and what features are available to you as a user.
+
+Well, it is time to put your worries to rest. I've got you.
+
+QuickStatements is a WikiData web tool that allows users to perform batch edits on WikiData items using simple text commands and and other functionalities related to batch processing. 3.0 is the third version, making it the best and most improved version for your usage.
+For the purpose of this documentation, we will be considering the very user friendly homepage. 
 
 ---
 
-## 1. Welcome Message
+## Welcome Header
 
-At the top of the page, there is a prominent **Welcome to QuickStatements 3.0** message. This serves as the main heading for the homepage and indicates to users that they are on the main interface of the tool.
-Not too far from the welcome message, still at the top, is the username of the logged in user.
-If the user is not logged in, a link to login occupies the same spot.
-
----
-
-## 2. Create a New Batch
-
-On the homepage, users will find a link labeled **New Batch**, which, when clicked, redirects them to a new page for batch creation. This feature allows users to start a new batch of commands that they can later execute. The button is clearly marked, making navigation intuitive.
+The heading of the home page is a bold **Welcome to QuickStatements 3.0** message.
+Not too far from the welcome message, still at the top, is the ```username``` of the logged in user.
+If the user is not logged in, a link to ```login``` occupies the same spot.
 
 ---
 
-## 3. Search for a Batch by ID
+## Batch Management
+This part of the homepage deals with creating of and searching for batch commands.
+###  Create a New Batch
 
-The homepage provides a form that allows users to search for specific batches by their ID. The form includes:
-- **Batch ID Input**: Users can enter the ID of the batch they are interested in.
-- **Submit Button**: Once the batch ID is entered, clicking the **See batch details** button will display the details of the batch associated with the entered ID.
+The button labelled **New Batch**,  when clicked, redirects users to a page specifically for creation of new batch commands. The button is clearly marked with a bold colour and white font within, making navigation easy.
 
-This feature makes it easy for users to access batch information directly by entering the relevant batch identifier.
 
+
+### Batch Search 
+The search feature allows for users to access batch information using either the ID or the Username.
+Two input forms displayed on the homepage are provided for this purpose, with each of them distinctly showing placeholder and button marked for its function 
+
+- By ID.  
+The form used to search for batches by ID, has the input with ```Batch ID``` as a placeholder and a submit button labelled ```see batches by user``` .
+It assists users to search for specific batches with their IDs.
+
+- By Username.  
+The form used to search for batches by username, has the username input with ```username``` as a placeholder and a submit button labelled ```See batch details```. It assists users to search for batches created by specific individuals .
+
+ 
 ---
 
-## 4. Search for Batches by Username
+## Design and Accessibility
 
-In addition to batch ID search, the homepage also includes a form where users can search for batches by username. This allows users to:
-- **Username Input**: Enter the username of the user whose batches they want to view.
-- **Submit Button**: By clicking **See batches by user**, users can retrieve a list of batches created by the specified user.
-
-This feature is particularly useful for users who manage or track batches created by specific individuals.
-
----
-
-## 5. Clean and Accessible Layout
-
-The homepage is designed with simplicity and ease of use in mind:
-- **Navigation**: The main features (New Batch, search forms) are laid out clearly, making it easy for users to find and use the necessary tools.
-- **Responsiveness**: The page is styled for a clean, responsive design to ensure that it looks good on various screen sizes and devices.
-- **Accessibility**: Key elements like forms and buttons are appropriately labeled and structured to ensure accessibility for all users, including those using assistive technologies.
+The design of the homepage is simple and designed with accessibility in mind:
+- **Navigation**: The main features as it pertains to batch creation and search are laid out clearly. This makes it easy for users to navigate.
+- **Responsiveness & Accessibility**:  The page is properly styled and suited for multiple device displays. Important elements like the buttons and the forms are properly labelled in such a way that accessibility tools used in assistive technologies for differently-abled persons can recognize and understand such labels.
 
 ---
 
 ## Summary of Features
-- **Welcome Message**: A friendly greeting for users of the tool.
-- **New Batch Link**: Easy access to start a new batch.
-- **Batch Search by ID**: A form to look up specific batches by their unique ID.
-- **Batch Search by Username**: A form to retrieve batches created by a specific user.
-- **User-Friendly Design**: Clean, accessible, and responsive interface for all users.
+- **Welcome Header**: a quick greeting and login status of the user
+- **Batch Management**: Easy enough for users to create a new batch and also search for batches using either username or ID
+- **Responsive,User-Friendly and Assistive Technology Design**: Beautiful simple responsive interface coded with labels that work well with assistive technologies.
 
-This homepage is designed to give users a straightforward way to interact with their batches, ensuring that both new and experienced users can navigate and use the tool effectively.
