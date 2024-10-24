@@ -4,7 +4,7 @@ Welcome.
 
 I know you're just bursting to find out what Quickstatements 3.0 is all about.
 
-Well, it is time to put your worries to rest. 
+Well, let's dive in and explore. 
 
 QuickStatements is a WikiData web tool that allows users to perform batch edits on WikiData items using simple text commands.
 
