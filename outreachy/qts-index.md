@@ -4,10 +4,20 @@ Welcome.
 
 I know you're just bursting to find out what Quickstatements 3.0 is all about.
 
-Well, let's dive in and explore. 
+Let's dive in and explore. 
 
-QuickStatements is a WikiData web tool that allows users to perform batch edits on WikiData items using simple text commands.
+QuickStatements is an amazing WikiData web tool that simplifies batch editing on Wikidata.
 
+Its user-friendly interface is designed with new and experienced users in mind.
+Regardless of your level of experience, QuickStatements allows you perform batch edits on WikiData items using simple text commands and ensures quick efficient management of batch processes.
+
+## Table of Contents
+1. [Navigation Menu](#navigation-menu)
+2. [Batch Management](#batch-management)
+    - [Create a New Batch](#create-a-new-batch)
+    - [Batch Search](#batch-search)
+3. [Design and Accessibility](#design-and-accessibility)
+4. [Summary of Features](#summary-of-features)
 
 
 
